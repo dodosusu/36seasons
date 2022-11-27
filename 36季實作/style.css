@@ -1,0 +1,312 @@
+.logo{
+    position:relative;bottom:655px;left:754px;
+}
+
+
+.white{
+    width: 1657.57px;
+    height: 53.75px;
+    background-color: #ffffff;
+   
+}
+
+.one{
+    width: 1657.57px;
+    height: 555px;
+}
+
+
+
+.title{
+    font-family:Helvetica;
+    font-size:48px;
+
+    display: flex;
+    justify-content: center;
+    position:relative;bottom:540px;
+    color: #ffffff;
+}
+.Ashopnow{
+    display: flex;
+    justify-content: center;
+    
+    position:relative;bottom:510px;left:779px;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 15px;
+    width: 100px;
+    height: 25px;
+    border: solid 1px #ffffff;
+    padding:7px 0px 0px 0px;
+}
+
+.menu{
+    width: 1033.83px;
+    position:relative;left:260px;bottom:465px;
+    margin:0px 0px 0px 0px ;
+}
+
+.search{
+    font-family:Arial;
+    font-size: 15px;
+    width:220px;
+    height: 15px;
+    display: flex;
+    justify-content:Space-between;
+    align-items:baseline;
+    position: relative;left:1400px;bottom:580px;
+    color: #ffffff;
+    
+}
+.map{
+    position: relative;bottom:580px;left:35px;
+}
+.area{
+    font-family:Arial;
+    width: 300px;
+    height: 15px;
+    display: flex;
+    justify-content:Space-between;
+ 
+    
+    position: relative;bottom:615px;left:65px;
+    
+    color: #ffffff;
+}
+
+
+ul{
+    font-family: Arial;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin:0px 0px 0px 0px ;
+    color: #ffffff;
+   
+}
+
+.two{
+    position: relative;top:173px;
+    display: flex;
+   justify-content: center;
+}
+
+.Teatasting{
+    display: flex;
+    justify-content: center;
+    position: relative;top:202px;
+    margin:0px 0px 0px 0px ;
+
+    font-family: Arial;
+    font-size: 18px;
+
+}
+.Highmountain{
+    display: flex;
+   justify-content: center;
+   margin:0px 0px 0px 0px ;
+   position: relative;top:217px;
+
+   font-family: Arial;
+   font-size:36px;
+}
+
+.illustration{
+    font-family: Arial;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    position: relative;bottom:700px;
+}
+.Artistic{
+    font-family: Arial;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    position: relative;bottom:720px;
+}
+.Bshopnow{
+    display: flex;
+    justify-content: center;left:743px;bottom:720px;
+    position:relative;
+    color: #6B6B6B;
+    font-family: Arial;
+    font-size: 15px;
+    width: 100px;
+    height: 25px;
+    border: solid 1px #6B6B6B;
+    padding:7px 0px 0px 0px;
+}
+.three{
+    position: relative;left:160px;top:350px;
+    width: 650.54px;  
+    height: 848.73px;
+    }
+.four
+{
+    position: relative;left:837px;top:-499px;
+    width: 601.12px;
+    height: 434.05px; 
+}
+.five{
+    position: relative;left:160px;bottom:68px;
+}
+.six{
+    position: relative;left:837px;bottom:940px;
+}
+.seven{
+    display: flex;
+    justify-content:center;
+    position: relative;bottom:400px;
+}
+.Exquisite{
+    font-family: Arial;
+    display: flex;
+    justify-content:center;
+    position: relative;bottom:390px;
+}
+
+.Floral{
+    font-family: Arial;
+    font-size: 24px;
+    color:#000000 ;
+    display: flex;
+    justify-content:center;
+    position: relative;bottom:400px;
+}
+.Cshopnow{
+    display: flex;
+    justify-content: center;left:743px;bottom:390px;
+    position:relative;
+    color: #6B6B6B;
+    font-family: Arial;
+    font-size: 15px;
+    width: 100px;
+    height: 25px;
+    border: solid 1px #6B6B6B;
+    padding:7px 0px 0px 0px;
+}
+
+.eight{
+    display:flex;
+    align-items: center;
+  position: relative;bottom:300px;
+ 
+}
+.WRectangle{
+    display: flex;
+    align-items: center;
+    position: relative;right:897.94px; 
+   
+}
+.boxword{
+    font-family: Arial;
+    font-size: 15px;
+    position: relative;right:160px;
+}
+.STORIES{
+    font-family: Arial;
+    font-size: 47px;
+    display: flex;
+    justify-content:center;
+    position: relative;bottom:130px;
+}
+.Line{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position: relative;bottom:460px;left:2155px; 
+
+}
+.x{
+    display: flex;
+   position: relative;top:350px;right:800px;
+
+}
+.nine{
+    display: flex;
+    justify-content:center;
+    margin: 0px 0px 0px 0px ;
+}
+.ten{
+    display: flex;
+    justify-content:center;
+    margin: 0px 0px 0px 31px ;
+}
+.eleven{
+    display: flex;
+    justify-content:center;
+    
+    margin: 0px 0px 0px 31px ;
+}
+
+.Awordnine{
+    font-family: Arial;
+    font-size: 24px;
+    position:relative;right: 1265px;bottom:-280px;
+   
+}
+.Bwordnine{
+    font-family: Arial;
+    font-size: 18px;
+    position:relative;right:1520px;bottom:-340px;
+   
+}    
+.Awordnten{
+    font-family: Arial;
+    font-size: 24px;
+    position:relative;right: 1250px;bottom:-280px;
+}
+.Bwordnten{
+    font-family: Arial;
+    font-size: 18px;
+    position:relative;right:1430px;bottom:-340px;
+}
+.Aeleven{
+    font-family: Arial;
+    font-size: 24px;
+    position:relative;right:1200px;bottom:-280px;
+}
+
+.Beleven{
+    font-family: Arial;
+    font-size: 18px;
+    position:relative;right:1425px;bottom:-340px;
+}
+.bluebox{
+    display: flex;
+    justify-content:center;
+    position:relative;right:3630px;top:1100px;
+   
+}
+ol{
+    font-size: 15px;
+    position:relative;left:193px;bottom:450px;
+}
+.footer{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;bottom: 75px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: #ffffff;
+}
+.gray{
+    font-size: 18px;
+    color:#000000 ;
+    width: 1599px;
+    height: 4850px;
+    background-color: #F7F7F7;
+    margin:0 28px 0  28px;
+    position: relative;
+    
+    
+}
+
+.box{
+    width: 1659px;
+    height: 5550px;
+}
+
